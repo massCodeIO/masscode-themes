@@ -27,6 +27,18 @@
       "pattern": "^https://github\\.com/[A-Za-z0-9_.-]+(?:/[A-Za-z0-9_.-]+)?/?$",
       "description": "GitHub profile or repository URL of the author"
     },
+    "license": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 64,
+      "description": "Optional SPDX license identifier (e.g. MIT)"
+    },
+    "copyright": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200,
+      "description": "Optional upstream or author copyright notice"
+    },
     "type": {
       "type": "string",
       "enum": ["light", "dark"]
