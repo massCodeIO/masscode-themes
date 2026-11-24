@@ -112,6 +112,14 @@ function validateTheme(fileName, rawContent) {
     errors.push(`${fileName}: "authorUrl" must be a valid https://github.com/... URL`)
   }
 
+  if (data.license !== undefined && (typeof data.license !== 'string' || !data.license.trim() || data.license.trim().length > 64)) {
+    errors.push(`${fileName}: "license" must be a non-empty string (max 64 chars)`)
+  }
+
+  if (data.copyright !== undefined && (typeof data.copyright !== 'string' || !data.copyright.trim() || data.copyright.trim().length > 200)) {
+    errors.push(`${fileName}: "copyright" must be a non-empty string (max 200 chars)`)
+  }
+
   if (!data.colors || typeof data.colors !== 'object' || Array.isArray(data.colors)) {
     errors.push(`${fileName}: "colors" must be an object`)
   }

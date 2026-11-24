@@ -66,6 +66,10 @@ Prefer submitting manually from the browser? Open the [GitHub Web Theme Editor](
 ## Validation Rules
 
 - Required fields: `name`, `type` (`"light"` or `"dark"`), `colors` (minimum: `background`, `foreground`, `primary`, `card`, `border`).
-- Optional fields: `$schema`, `author`, `authorUrl` (`https://github.com/...`), `editorColors` (keys must start with `editor-`).
+- Optional fields: `$schema`, `author`, `authorUrl` (`https://github.com/...`), `license` (SPDX ID, e.g. `"MIT"`), `copyright` (upstream or author notice), `editorColors` (keys must start with `editor-`).
 - Supported CSS color formats: `#hex`, `rgb(...)`, `rgba(...)`, `hsl(...)`, `hsla(...)`, `oklch(...)`.
 - Legacy `color-*` tokens (such as `color-bg`, `color-primary`) are not allowed.
+
+## Porting Third-Party Themes
+
+If your theme is a port of an existing open-source theme, you may include `license` and `copyright` fields in your theme JSON (they are preserved verbatim when installed through massCode) and add an entry to [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md).
