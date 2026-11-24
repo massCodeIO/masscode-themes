@@ -15,6 +15,8 @@ Browse, preview, install, update, and remove community themes in one click insid
 | ![Catppuccin Mocha](previews/catppuccin-mocha.svg) | [**Catppuccin Mocha**](themes/catppuccin-mocha.json) | Dark | [massCode](https://github.com/massCodeIO) |
 | ![Dracula](previews/dracula.svg) | [**Dracula**](themes/dracula.json) | Dark | [massCode](https://github.com/massCodeIO) |
 | ![GitHub Light](previews/github-light.svg) | [**GitHub Light**](themes/github-light.json) | Light | [massCode](https://github.com/massCodeIO) |
+| ![One Dark](previews/one-dark.svg) | [**One Dark**](themes/one-dark.json) | Dark | [jongwoo328](https://github.com/jongwoo328) |
+| ![One Light](previews/one-light.svg) | [**One Light**](themes/one-light.json) | Light | [jongwoo328](https://github.com/jongwoo328) |
 | ![Rose Pine Dawn](previews/rose-pine-dawn.svg) | [**Rose Pine Dawn**](themes/rose-pine-dawn.json) | Light | [massCode](https://github.com/massCodeIO) |
 | ![Tokyo Night](previews/tokyo-night.svg) | [**Tokyo Night**](themes/tokyo-night.json) | Dark | [massCode](https://github.com/massCodeIO) |
 <!-- THEMES:END -->

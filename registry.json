@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "commit": "5250f6632c36c4c5a761b9e2e3055a5939bfa80d",
-  "generatedAt": "2026-11-23T07:40:53.066Z",
+  "commit": "1d9a878bd37075431991ffcec303357bbb567fb3",
+  "generatedAt": "2026-11-24T12:33:41.553Z",
   "themes": [
     {
       "id": "catppuccin-latte",
@@ -81,6 +81,46 @@
         "keyword": "hsl(355, 65%, 48%)",
         "string": "hsl(212, 84%, 31%)",
         "comment": "hsl(212, 9%, 46%)"
+      }
+    },
+    {
+      "id": "one-dark",
+      "name": "One Dark",
+      "author": "jongwoo328",
+      "authorUrl": "https://github.com/jongwoo328",
+      "type": "dark",
+      "file": "themes/one-dark.json",
+      "sha256": "110f26871be9be2e35ae92b8db9dceced14ea210925bdb68ed207bbaa20b7f4c",
+      "preview": {
+        "background": "hsl(220, 13%, 18%)",
+        "card": "hsl(220, 13%, 16%)",
+        "foreground": "hsl(220, 14%, 71%)",
+        "primary": "hsl(207, 82%, 66%)",
+        "border": "hsl(220, 13%, 28%)",
+        "accent": "hsl(220, 13%, 25%)",
+        "keyword": "hsl(286, 60%, 67%)",
+        "string": "hsl(95, 38%, 62%)",
+        "comment": "hsl(220, 10%, 40%)"
+      }
+    },
+    {
+      "id": "one-light",
+      "name": "One Light",
+      "author": "jongwoo328",
+      "authorUrl": "https://github.com/jongwoo328",
+      "type": "light",
+      "file": "themes/one-light.json",
+      "sha256": "ee68770ad1b5b4d92df1aceb205882cfbe60987eb1b085bb2adf27c8ec9bfd9b",
+      "preview": {
+        "background": "hsl(230, 1%, 98%)",
+        "card": "hsl(230, 1%, 93%)",
+        "foreground": "hsl(230, 8%, 24%)",
+        "primary": "hsl(221, 87%, 60%)",
+        "border": "hsl(230, 1%, 85%)",
+        "accent": "hsl(230, 1%, 90%)",
+        "keyword": "hsl(301, 63%, 40%)",
+        "string": "hsl(119, 34%, 47%)",
+        "comment": "hsl(230, 4%, 64%)"
       }
     },
     {
