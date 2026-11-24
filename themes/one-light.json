@@ -1,0 +1,36 @@
+{
+  "name": "One Light",
+  "author": "jongwoo328",
+  "authorUrl": "https://github.com/jongwoo328",
+  "type": "light",
+  "colors": {
+    "primary": "hsl(221, 87%, 60%)",
+    "primary-foreground": "hsl(230, 1%, 98%)",
+    "background": "hsl(230, 1%, 98%)",
+    "foreground": "hsl(230, 8%, 24%)",
+    "accent": "hsl(230, 1%, 90%)",
+    "accent-hover": "hsl(230, 1%, 86%)",
+    "accent-foreground": "hsl(230, 8%, 15%)",
+    "muted": "hsl(230, 1%, 94%)",
+    "muted-foreground": "hsl(228, 6%, 44%)",
+    "card": "hsl(230, 1%, 93%)",
+    "popover": "hsl(0, 0%, 100%)",
+    "popover-foreground": "hsl(230, 8%, 24%)",
+    "border": "hsl(230, 1%, 85%)",
+    "scrollbar": "hsla(230, 4%, 64%, 0.5)"
+  },
+  "editorColors": {
+    "editor-keyword": "hsl(301, 63%, 40%)",
+    "editor-string": "hsl(119, 34%, 47%)",
+    "editor-comment": "hsl(230, 4%, 64%)",
+    "editor-number": "hsl(41, 99%, 30%)",
+    "editor-atom": "hsl(41, 99%, 30%)",
+    "editor-variable": "hsl(230, 8%, 24%)",
+    "editor-def": "hsl(221, 87%, 60%)",
+    "editor-property": "hsl(5, 74%, 59%)",
+    "editor-tag": "hsl(5, 74%, 59%)",
+    "editor-attribute": "hsl(41, 99%, 30%)",
+    "editor-operator": "hsl(198, 99%, 37%)",
+    "editor-bracket": "hsl(230, 8%, 24%)"
+  }
+}
