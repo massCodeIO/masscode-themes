@@ -19,6 +19,9 @@ Browse, preview, install, update, and remove community themes in one click insid
 | ![One Light](previews/one-light.svg) | [**One Light**](themes/one-light.json) | Light | [jongwoo328](https://github.com/jongwoo328) |
 | ![Rose Pine Dawn](previews/rose-pine-dawn.svg) | [**Rose Pine Dawn**](themes/rose-pine-dawn.json) | Light | [massCode](https://github.com/massCodeIO) |
 | ![Tokyo Night](previews/tokyo-night.svg) | [**Tokyo Night**](themes/tokyo-night.json) | Dark | [massCode](https://github.com/massCodeIO) |
+| ![Zero Hex — Ember](previews/zero-hex-ember.svg) | [**Zero Hex — Ember**](themes/zero-hex-ember.json) | Dark | [Zero Hex](https://github.com/zerohextech) |
+| ![Zero Hex — Oxide](previews/zero-hex-oxide.svg) | [**Zero Hex — Oxide**](themes/zero-hex-oxide.json) | Dark | [Zero Hex](https://github.com/zerohextech) |
+| ![Zero Hex — Trace](previews/zero-hex-trace.svg) | [**Zero Hex — Trace**](themes/zero-hex-trace.json) | Dark | [Zero Hex](https://github.com/zerohextech) |
 <!-- THEMES:END -->
 
 ## Submit Your Theme (No Git Required)

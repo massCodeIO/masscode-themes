@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "commit": "5a5e9e66ef88f244a320b4dc9ef77c174f4e1dd3",
-  "generatedAt": "2026-11-24T12:35:52.529Z",
+  "commit": "ac85b5947386ad99b5a021ae81b6b0b142370bcd",
+  "generatedAt": "2026-11-28T04:32:39.894Z",
   "themes": [
     {
       "id": "catppuccin-latte",
@@ -161,6 +161,66 @@
         "keyword": "hsl(261, 85%, 79%)",
         "string": "hsl(89, 51%, 61%)",
         "comment": "hsl(229, 24%, 44%)"
+      }
+    },
+    {
+      "id": "zero-hex-ember",
+      "name": "Zero Hex — Ember",
+      "author": "Zero Hex",
+      "authorUrl": "https://github.com/zerohextech",
+      "type": "dark",
+      "file": "themes/zero-hex-ember.json",
+      "sha256": "03bb5b44f463b8689276f0f471c658912a72f886ad14b0569ab7a6ef5033187e",
+      "preview": {
+        "background": "#151113",
+        "card": "#1B1517",
+        "foreground": "#EEE5E3",
+        "primary": "#FF6B60",
+        "border": "#403033",
+        "accent": "#352528",
+        "keyword": "#FF8277",
+        "string": "#E4C29B",
+        "comment": "#A38E90"
+      }
+    },
+    {
+      "id": "zero-hex-oxide",
+      "name": "Zero Hex — Oxide",
+      "author": "Zero Hex",
+      "authorUrl": "https://github.com/zerohextech",
+      "type": "dark",
+      "file": "themes/zero-hex-oxide.json",
+      "sha256": "025690b51dc64677724c5e12d25dbf88e6729cf2cf887b3cc90cc1db51863259",
+      "preview": {
+        "background": "#0C1014",
+        "card": "#11171D",
+        "foreground": "#F5F7FA",
+        "primary": "#F82D1F",
+        "border": "#303A44",
+        "accent": "#202831",
+        "keyword": "#FF6257",
+        "string": "#D8E0E8",
+        "comment": "#83919F"
+      }
+    },
+    {
+      "id": "zero-hex-trace",
+      "name": "Zero Hex — Trace",
+      "author": "Zero Hex",
+      "authorUrl": "https://github.com/zerohextech",
+      "type": "dark",
+      "file": "themes/zero-hex-trace.json",
+      "sha256": "23c6f13e9b9f2880066d5892ca224d050ea2982d9d84875a0b356ec78838b2ef",
+      "preview": {
+        "background": "#0B1118",
+        "card": "#101B25",
+        "foreground": "#EAF1F6",
+        "primary": "#FF534A",
+        "border": "#2E4354",
+        "accent": "#1B3040",
+        "keyword": "#FF7770",
+        "string": "#A9D8B9",
+        "comment": "#8399AB"
       }
     }
   ]
