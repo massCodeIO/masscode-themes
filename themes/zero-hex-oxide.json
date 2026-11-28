@@ -1,0 +1,39 @@
+{
+  "$schema": "https://raw.githubusercontent.com/massCodeIO/masscode-themes/main/schema/theme.schema.json",
+  "name": "Zero Hex — Oxide",
+  "author": "Zero Hex",
+  "authorUrl": "https://github.com/zerohextech",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 ZERO HEX",
+  "type": "dark",
+  "colors": {
+    "primary": "#F82D1F",
+    "primary-foreground": "#0C1014",
+    "background": "#0C1014",
+    "foreground": "#F5F7FA",
+    "accent": "#202831",
+    "accent-hover": "#2B3540",
+    "accent-foreground": "#F5F7FA",
+    "muted": "#151C23",
+    "muted-foreground": "#9AA7B4",
+    "card": "#11171D",
+    "popover": "#151C23",
+    "popover-foreground": "#F5F7FA",
+    "border": "#303A44",
+    "scrollbar": "#68768680"
+  },
+  "editorColors": {
+    "editor-keyword": "#FF6257",
+    "editor-string": "#D8E0E8",
+    "editor-comment": "#83919F",
+    "editor-number": "#F0B982",
+    "editor-atom": "#F0B982",
+    "editor-variable": "#E9EDF2",
+    "editor-def": "#F5F7FA",
+    "editor-property": "#B6C5D4",
+    "editor-tag": "#FF6257",
+    "editor-attribute": "#D8E0E8",
+    "editor-operator": "#A8B5C3",
+    "editor-bracket": "#A8B5C3"
+  }
+}

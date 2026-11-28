@@ -1,0 +1,39 @@
+{
+  "$schema": "https://raw.githubusercontent.com/massCodeIO/masscode-themes/main/schema/theme.schema.json",
+  "name": "Zero Hex — Trace",
+  "author": "Zero Hex",
+  "authorUrl": "https://github.com/zerohextech",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 ZERO HEX",
+  "type": "dark",
+  "colors": {
+    "primary": "#FF534A",
+    "primary-foreground": "#0B1118",
+    "background": "#0B1118",
+    "foreground": "#EAF1F6",
+    "accent": "#1B3040",
+    "accent-hover": "#243C4D",
+    "accent-foreground": "#EAF1F6",
+    "muted": "#14212D",
+    "muted-foreground": "#9BB0C1",
+    "card": "#101B25",
+    "popover": "#172633",
+    "popover-foreground": "#EAF1F6",
+    "border": "#2E4354",
+    "scrollbar": "#6C8AA080"
+  },
+  "editorColors": {
+    "editor-keyword": "#FF7770",
+    "editor-string": "#A9D8B9",
+    "editor-comment": "#8399AB",
+    "editor-number": "#F5C58B",
+    "editor-atom": "#F5C58B",
+    "editor-variable": "#E4EDF4",
+    "editor-def": "#7BD6E5",
+    "editor-property": "#A9C6F3",
+    "editor-tag": "#FF7770",
+    "editor-attribute": "#7BD6E5",
+    "editor-operator": "#C1D1DF",
+    "editor-bracket": "#9FB5C6"
+  }
+}

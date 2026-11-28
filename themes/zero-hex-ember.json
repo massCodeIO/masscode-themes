@@ -1,0 +1,39 @@
+{
+  "$schema": "https://raw.githubusercontent.com/massCodeIO/masscode-themes/main/schema/theme.schema.json",
+  "name": "Zero Hex — Ember",
+  "author": "Zero Hex",
+  "authorUrl": "https://github.com/zerohextech",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 ZERO HEX",
+  "type": "dark",
+  "colors": {
+    "primary": "#FF6B60",
+    "primary-foreground": "#151113",
+    "background": "#151113",
+    "foreground": "#EEE5E3",
+    "accent": "#352528",
+    "accent-hover": "#443034",
+    "accent-foreground": "#F3E8E5",
+    "muted": "#21191B",
+    "muted-foreground": "#B8A6A5",
+    "card": "#1B1517",
+    "popover": "#251B1D",
+    "popover-foreground": "#F3E8E5",
+    "border": "#403033",
+    "scrollbar": "#A1848480"
+  },
+  "editorColors": {
+    "editor-keyword": "#FF8277",
+    "editor-string": "#E4C29B",
+    "editor-comment": "#A38E90",
+    "editor-number": "#F1AD82",
+    "editor-atom": "#F1AD82",
+    "editor-variable": "#E8DDDA",
+    "editor-def": "#F6DAD3",
+    "editor-property": "#D9A9B7",
+    "editor-tag": "#FF8277",
+    "editor-attribute": "#E4C29B",
+    "editor-operator": "#D3B9B7",
+    "editor-bracket": "#BAA4A3"
+  }
+}
